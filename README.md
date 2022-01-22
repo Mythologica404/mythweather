@@ -8,7 +8,7 @@
 
 ## Tentang MythWeather
 
-Sebuah Aplikasi Cuaca dengan menggunakan Vue JS dan API dari OpenWeather
+Sebuah Aplikasi Cuaca dengan menggunakan Vue JS dan API dari OpenWeather. Ini merupakan aplikasi yang dibuat saat saya sedang mempelajari Vue JS.
 
 ## Live Demo
 
