@@ -12,6 +12,6 @@ Sebuah Aplikasi Cuaca dengan menggunakan Vue JS dan API dari OpenWeather
 
 ## Live Demo
 
-Live Demo saya deploy menggunakan Vercel pada link https://mythweather.vercel.app/
+Live Demo saya deploy menggunakan Vercel pada link https://mythweather.vercel.app/ (Disarankan dibuka menggunakan device Mobile)
 
 </div>
